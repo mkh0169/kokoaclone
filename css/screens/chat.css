@@ -9,21 +9,17 @@
     background-color: #abc1d1;
     width: 100%;
     box-sizing: border-box;
-
 }
 
 #chat-screen .status-bar {
     z-index: 2;
-    height:25px;
 }
 
 #chat-screen .alt-header {
-    top: 20px;
+    top: 10px;
     z-index: 1;
 }
 
 .main-chat {
     margin-top: 200px;
-
-
 }
